@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "23.0",
+    "versionCode": "23000",
+    "link": "https://cdn.jsdelivr.net/gh/BahuangShanren/magisk-v23.0@master/app-release.apk",
+    "note": "https://cdn.jsdelivr.net/gh/BahuangShanren/magisk-v23.0@master/23000.md"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://cdn.jsdelivr.net/gh/BahuangShanren/magisk-v23.0@master/stub-release.apk"
+  }
+}
